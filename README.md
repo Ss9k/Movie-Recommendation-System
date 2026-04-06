@@ -29,7 +29,7 @@ Note: similarity.pkl and movies.pkl are not included in this repo due to their l
 
 ⚙️ Setup & Installation
 1. Clone the repository
-bashgit clone https://github.com/your-username/movie-recommender-system.git
+bashgit clone https://github.com/Ss9k/movie-recommendation-system.git
 cd movie-recommender-system
 2. Install dependencies
 bashpip install -r requirements.txt
