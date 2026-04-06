@@ -47,7 +47,6 @@ Sign up at themoviedb.org
 Go to Settings → API → Request an API key
 Replace the placeholder in app.py:
 
-pythonAPI_KEY = "your_tmdb_api_key_here"
 6. Run the app
 bashstreamlit run app.py
 
