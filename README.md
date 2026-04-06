@@ -1,5 +1,3 @@
-*How It Works*
-
 This system uses Content-Based Filtering — it recommends movies by analyzing what a movie is about, not what other users watched.
 Here's the pipeline:
 
